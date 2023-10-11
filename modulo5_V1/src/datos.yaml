@@ -1,0 +1,10 @@
+first: Jason
+last: Jones
+isManager: true
+age: 35
+address:
+    street: Jason Avenue
+    city: Jasonville
+    state: JS,
+    postcode: JS12 ON34
+ 
